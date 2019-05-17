@@ -27,6 +27,7 @@ System owners and data owners should, wherever possible, consider relevant inter
 
 #### US National Standards
 * [American National Standards Institute (ANSI)](http://www.ansi.org/)
+* [National Information Standards Organization (NISO), part of ANSI https://www.niso.org/)
 * [International Committee for Information Technology Standards (INCITS)](http://incits.org/)
 
 #### US Federal Government Standards
